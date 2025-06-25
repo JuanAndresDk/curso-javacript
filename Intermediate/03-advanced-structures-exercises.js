@@ -4,6 +4,9 @@ Vídeo: https://youtu.be/iJvLAZ8MJ2E?t=7514
 */
 
 // 1. Utiliza map, filter y reduce para crear un ejemplo diferente al de la lección
+let numbers = [2, 4, 3, 7, 5, 9]
+
+numbers.map
 
 // 2. Dado un array de números, crea uno nuevo con dichos números elevados al cubo y filtra sólo los números pares
 
